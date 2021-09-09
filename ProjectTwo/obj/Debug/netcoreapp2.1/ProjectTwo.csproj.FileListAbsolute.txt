@@ -1,0 +1,17 @@
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\ProjectTwo.deps.json
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\ProjectTwo.runtimeconfig.json
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\ProjectTwo.runtimeconfig.dev.json
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\ProjectTwo.dll
+C:\Users\joeya\source\repos\ProjectTwo\bin\Debug\netcoreapp2.1\ProjectTwo.pdb
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.AssemblyInfoInputs.cache
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.AssemblyInfo.cs
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.RazorAssemblyInfo.cache
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.RazorAssemblyInfo.cs
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.RazorTargetAssemblyInfo.cache
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.dll
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.pdb
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.genruntimeconfig.cache
+C:\Users\joeya\source\repos\ProjectTwo\obj\Debug\netcoreapp2.1\ProjectTwo.csproj.AssemblyReference.cache
